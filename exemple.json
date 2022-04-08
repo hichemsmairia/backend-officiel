@@ -1,0 +1,20 @@
+[
+  {
+    "email": "hichemsmairia22@gmail.com",
+    "id": 12,
+    "voiture": "bmw",
+    "admis": true
+  },
+  {
+    "email": "yasmine@gmail.com",
+    "id": 13,
+    "voiture": "ferrari",
+    "admis": true
+  },
+  {
+    "email": "charme@gmail.com",
+    "id": 14,
+    "voiture": "mercedes",
+    "admis": true
+  }
+]
