@@ -22,5 +22,5 @@ mongoose.connect(
 server.use("/student", studentRouter);
 
 // /add_student   
-
-server.listen(5000, () => console.log("serveur en marche !!! "));
+const PORT = process.env.PORT || 5000
+server.listen(PORT, () => console.log("serveur en marche !!! "));
